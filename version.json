@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
 
   "windows_url":
   "https://github.com/debimbaye-a11y/midac-gestionale-updates/releases/download/1.0.5/DebiProject_Setup.exe",
 
   "mac_url":
-  "https://github.com/debimbaye-a11y/midac-gestionale-updates/releases/download/1.0.5/DebiProject-1.0.5.dmg"
+  "https://github.com/debimbaye-a11y/midac-gestionale-updates/releases/download/1.0.6/DebiProject-1.0.6.dmg"
 }
